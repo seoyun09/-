@@ -1,0 +1,6 @@
+{
+  "name": "Math Mate - AI Math Tutor",
+  "description": "AI 기반 스마트 오답노트 & 소크라테스식 실시간 수학 튜터링 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
